@@ -1,0 +1,4 @@
+api_key = 'n3lPexY5pW3ggZKqqkg96GgVQ'
+api_key_secret = 'iwG5v2kEgUOP827477UxOzVrnXQOBY3gigpz5EsHIfZFXuW1pB'
+access_token = '2886536636-64t5aJCpptjVsgcZSyBeoln4faQBFDOqvy4P3y1'
+access_token_secret = 'JCJ4JKv58wdTKt2qFT0ycJFfQqpflS01liSIWF7T4w10O'
